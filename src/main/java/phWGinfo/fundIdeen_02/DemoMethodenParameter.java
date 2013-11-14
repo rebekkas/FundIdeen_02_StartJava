@@ -12,7 +12,7 @@ public class DemoMethodenParameter {
         // Beispielmethode: sagWas
         sagWas("Hallo?");
         sagWas("Ist da jemand?");
-        System.out.println(count);
+        System.out.println(wieViel());
     }
 
     private void sagWas(String was) {

@@ -22,20 +22,7 @@
   </component>
   <component name="DebuggerManager">
     <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java" line="10" class="phWGinfo.fundIdeen_02.Main" package="phWGinfo.fundIdeen_02">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/DemoMethodenParameter.java" line="18" class="phWGinfo.fundIdeen_02.DemoMethodenParameter" package="phWGinfo.fundIdeen_02">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/DemoMethodenParameter.java" line="14" class="phWGinfo.fundIdeen_02.DemoMethodenParameter" package="phWGinfo.fundIdeen_02">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -92,7 +79,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="19" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,7 +118,7 @@
       <file leaf-file-name="DemoMethodenParameter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/DemoMethodenParameter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="34" selection-start="343" selection-end="343" vertical-scroll-proportion="0.7212389">
+            <state line="15" column="0" selection-start="348" selection-end="348" vertical-scroll-proportion="0.3318584">
               <folding />
             </state>
           </provider>
@@ -441,18 +428,22 @@
       <created>1384424576196</created>
       <updated>1384424576196</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mit kleinen Syntaxbeispielen">
+      <created>1384429833409</created>
+      <updated>1384429833409</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1936" y="0" width="800" height="600" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39874738" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39874738" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -568,14 +559,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+        <state line="10" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/DemoMethodenParameter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="343" selection-end="343" vertical-scroll-proportion="0.7212389">
+        <state line="15" column="0" selection-start="348" selection-end="348" vertical-scroll-proportion="0.3318584">
           <folding />
         </state>
       </provider>
