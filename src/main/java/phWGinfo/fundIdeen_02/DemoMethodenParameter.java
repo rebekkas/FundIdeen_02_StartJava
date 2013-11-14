@@ -4,6 +4,7 @@ package phWGinfo.fundIdeen_02;
  */
 public class DemoMethodenParameter {
 
+    int count = 0;
     // Beispiel Methodenparameter
     // new DemoMethodenParameter().run() vom main Arufen!
 
@@ -11,13 +12,18 @@ public class DemoMethodenParameter {
         // Beispielmethode: sagWas
         sagWas("Hallo?");
         sagWas("Ist da jemand?");
-
+        System.out.println(count);
     }
 
     private void sagWas(String was) {
+        count = count +1;
         System.out.println("Sagt      : " + was);
         was = was.toLowerCase();
         System.out.println("Hat gesagt: " + was);
+    }
+
+    public int wieViel() {
+        return count;
     }
 
 
